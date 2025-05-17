@@ -1,0 +1,154 @@
+body,h1,h2,h3,h4,h5,h6 {
+	font-family: "Lato", sans-serif
+}
+
+h1 {
+	font-size:  20px;
+	line-height: 1.2em;
+	/*letter-spacing: .04em;*/
+	font-family: "Playfair Display SC";
+	font-weight:  700;
+	margin:  18px 0 36px 0;
+}
+h1 span {
+/*			font-size: 24px;*/
+/*			letter-spacing: .13em;*/
+/*			font-family: "Playfair Display";*/
+	font-weight:  400;
+	/*display: block;
+	width: 100%;
+	text-align: center;*/
+
+}
+h2 {
+	margin: 43px 0px 45px 10px;
+	/*border-bottom:  2px solid lightgrey;*/
+	font-size:  36px;
+	font-family: "Playfair Display SC";
+	font-weight:  400;
+
+}
+h3 {
+	font-size: 16px;
+	letter-spacing: .02em;
+	font-family: "Playfair Display";
+	font-weight:  bold;
+	margin-bottom:  6px;
+}
+
+.categoriespage h3 + p {
+	margin-top:  0;
+}
+
+
+a.imglink{
+	content: '';
+	display: block;
+}
+a img:hover {
+	opacity: .8;
+	transition-duration: .2s;
+}
+
+p.serviceprice {
+	font-size:  32px;
+	font-family: "Playfair Display";
+}
+.light-text {
+	/*font-style: italic;*/
+	color:  #a9a9a9;
+}
+.w3-container {
+	padding-bottom:  16px;
+}
+.w3-black {
+	background-color: #424242!important;
+}
+.w3-btn {
+	margin-bottom:  16px;
+}
+.w3-jumbo { /*close sidebar button*/
+	font-size: 32px!important;
+	position:  absolute!important;
+	padding:  0px 0px;
+	top: 0;
+	right: 0;
+}
+.w3-xxlarge { /*open sidebar button */
+	font-size: 24px!important;
+}
+.w3-sidebar {
+	padding-left: 16px !important;
+	padding-right: 16px !important;
+	border-right: 1px solid #dfdfdf;
+	box-shadow: 3px 0px 10px rgba(0,0,0,.04);
+}
+.w3-row-padding {
+	padding:  0 16px;
+}
+.w3-input {
+	border:  2px solid teal;
+}
+.w3-input-failed {
+	border:  2px solid red;
+}
+.hp, #hp {
+	/*honey pot elements*/
+	display: none;
+}
+@keyframes emailanimate {
+	0% {color: darkred;}
+	25% {color: gold;}
+	50% {color: #009688;}
+	75% {color: blue;}
+	100% {color: black;}
+}
+#readlink {
+	/*margin-left: 16px;*/
+	font-size:  18px;
+	text-decoration: none;
+}
+.an {
+	position:relative;
+	animation-name: emailanimate;
+	animation-duration:  .5s;
+	animation-iteration-count: 3;
+	animation-timing-function: linear;
+}
+.social-group a {
+	margin-left:  16px;
+	font-size:  18px;
+}
+.social-group i {
+	font-size: 18px;
+}
+img.shifted-up {
+	position: relative;
+	top: -9px;
+}
+.pad-extra {
+	padding: 18px !important;
+}
+.pad-extra-top {
+	padding-top: 24px !important;
+}
+div.shows {
+	text-align: center;
+}
+div.shows p {
+	display: inline-block;
+	padding-left: 16px;
+	padding-right: 16px;
+}
+div.flex-container {
+	display:  flex;
+	flex-wrap: wrap;
+}
+div.flex-card {
+	display: flex;
+	flex-direction: column;    
+	flex-wrap: no-wrap;
+}
+div.flex-description {
+	flex-basis: 100%;
+}

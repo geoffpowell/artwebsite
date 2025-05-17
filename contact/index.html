@@ -1,0 +1,275 @@
+
+
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+	<title>Contact</title>
+	<meta charset="UTF-8">
+	<meta name="description" content="Contact. Contact Geoff Powell.  ">
+  	<meta name="author" content="Geoff Powell">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href='/css/w3.css'>
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+	<link href="https://fonts.googleapis.com/css2?family=Playfair+Display&family=Playfair+Display+SC:wght@400;700&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+	<link rel="stylesheet" href='/css/custom.css'>
+</head>
+
+	<body class="w3-light-grey w3-content" style="max-width:1300px">
+
+	
+
+<nav class="w3-sidebar w3-collapse w3-white w3-animate-opacity" style="z-index:3;width:240px;" id="mySidebar">
+  <br>
+
+  <div class="w3-container">
+    <a href="#" onclick="w3_close()" class="w3-hide-large w3-right w3-jumbo w3-padding w3-hover-grey" title="close menu">
+      <i class="fa fa-xmark"></i>
+    </a>
+    
+    <h1>Geoff Powell<br><span class="w3-text-grey"> Artist | Maker</span></h1>
+    
+  </div>
+
+  <div class="w3-bar-block">
+    
+     
+    
+    
+    
+    
+    <a href="/" onclick="w3_close()" class="w3-bar-item w3-button w3-padding">
+      
+    Selected Work</a>
+    <a href="/artwork/" onclick="w3_close()" class="w3-bar-item w3-button w3-padding">Artwork (All)</a> 
+    <a href="/categories/drawing/" onclick="w3_close()" class="w3-bar-item w3-button w3-padding">Drawing</a>
+    <a href="/categories/painting/" onclick="w3_close()" class="w3-bar-item w3-button w3-padding">Painting</a>
+    <hr>
+    <a href="/about/" onclick="w3_close()" class="w3-bar-item w3-button w3-padding">About</a> 
+    <a href="/contact/" onclick="w3_close()" class="w3-bar-item w3-button w3-padding">Contact</a>
+
+  </div>
+  
+    
+    
+    
+  
+</nav>
+
+
+<div class="w3-overlay w3-hide-large w3-animate-opacity" onclick="w3_close()" style="cursor:pointer" title="close side menu" id="myOverlay"></div>
+	
+	
+
+	
+	
+	<div class="w3-main" style="margin-left:240px">
+		
+
+	
+	
+  <header id="portfolio">
+    
+    <span class="w3-button w3-hide-large w3-xxlarge w3-hover-text-grey" onclick="w3_open()"><i class="fa fa-bars"></i></span>
+    <div class="w3-container">
+      <h2>|&nbsp;&nbsp;Contact</h2>
+      
+    </div>
+  </header>
+		
+
+
+<div class="w3-row-padding">
+  <div class="w3-container w3-col">
+    <div class="w3-threequarter">
+      <h3>Email</h3>
+      <p>To reveal my email, please answer the simple question(s) below to help show that you are a human:</p>
+        
+      <form id="checkhuman">
+        <div class="w3-section">
+          <p class="w3-text-white w3-black w3-padding hp">What sound does the cat say?</p>
+          <input type="text" class="w3-input w3-margin-bottom hp" id="hp">
+          <p class="w3-text-white w3-grey w3-padding">What is the sweet substance that bees make?</p>
+          <input type="text" class="w3-input w3-margin-bottom" id="nhp">
+          <button type="button" class="w3-button w3-teal" id="show" onclick="sE()">Show Email</button><br><br>
+          <a href="#" id="readlink"><i class="fa fa-envelope">&nbsp;&nbsp;&nbsp;</i>.....@...........</a>
+        </div>
+      </form><hr style="border-top: 1px solid #838383; margin: 40px 0;"> 
+      
+    </div>
+  </div>  
+</div>
+
+<script> 
+  
+  window.onload = function(){};
+    
+    const ans = "2821223112"
+    
+    const em = "293121303038293121303020211331242437351816"
+    
+    const sesame =  {
+        "giant": 29, 
+        "yap": 12,
+        ".farce": 37,
+        "caboose": 33,
+        "valor": 14,
+        "umbrella": 15,
+        "iggy": 27,
+        "tree": 16,
+        "nile": 22,
+        "shipyard": 17,
+        "river": 18,
+        "zipper": 10,
+        "quotient": 19,
+        "ozark": 21,
+        "@atat": 38,
+        "moat": 23,
+        "lakes": 24,
+        "water": 13,
+        "_under": 39,
+        "feel": 30,
+        "epidermis": 31,
+        "dent": 32,
+        "jackal": 26,
+        "xavier": 11,
+        "beloved": 34,
+        "artichoke": 35,
+        "-list": 36,
+        "kangaroo": 25,
+        "hole": 28,
+        "preserver": 20
+      }
+    
+    function encode(email){
+      let encodedString = "";
+      for (var n=0; n < email.length; n++ ) {
+        let emailChar = email[n];
+        for (const key in sesame) {
+          if (key.startsWith(emailChar)) {
+            let stringify = sesame[key].toString();
+            encodedString = encodedString + stringify;
+          };
+        }
+        
+      }
+      
+      return encodedString;
+    }
+
+
+    
+    function dc(enC) {
+      
+      let sS = [];
+      
+      for (var n=0; n < enC.length; n=n+2 ) {
+        sS.push(enC[n] + enC[n+1]);
+      };
+      
+      let dS = [];
+      
+      for (var n=0; n < sS.length; n++) {
+        let numberHolder = sS[n];
+        Object.entries(sesame).forEach(([key, value]) => {
+          
+          if (sS[n] == value) {
+            dS.push(key[0]);
+          }
+        });
+      }
+      
+      dS = dS.join('');
+      
+      return dS;
+    }
+
+    
+
+    
+    
+    function sE(){
+      let inputs = document.getElementsByTagName('input');
+      let readlink = document.getElementById("readlink");
+      let inputValue = document.getElementById('nhp').value;
+      let inputValueHP = document.getElementById('hp').value;
+      let btn = document.getElementById("show");
+      inputValue = inputValue.toLowerCase();
+      inputValue = encode(inputValue);
+      if (inputValue == ans & inputValueHP == "") {
+        
+        let dS = dc(em);
+        
+        readlink.innerHTML = "<i class='fa fa-envelope'>&nbsp;&nbsp;&nbsp;</i>" + dS;
+        readlink.classList.add("an");
+        readlink.href = "mailto:" + dS;
+        
+        btn.classList.remove("w3-red");
+        btn.classList.remove("w3-teal");
+        btn.setAttribute("style", "background-color: #ccc");
+        btn.innerText = "Email Revealed Below!";
+        btn.setAttribute("onClick", "0");
+        for (var n=0; n<inputs.length; n++) {
+          inputs[n].classList.remove("w3-input-failed");
+            console.log(n);
+        }
+      } else {
+          for (var n=0; n<inputs.length; n++) {
+            inputs[n].classList.add("w3-input-failed");
+            console.log(n);
+          }
+          btn.classList.remove("w3-teal");
+          btn.classList.add("w3-red");
+          btn.innerText = "Try Again";
+          return false;
+        }
+    }
+
+  
+
+    
+    
+    
+      
+      
+    
+      
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+
+</script>
+
+		
+	
+
+  
+	
+	</div>
+
+
+<script> 
+
+function w3_open() {
+    document.getElementById("mySidebar").style.display = "block";
+    document.getElementById("myOverlay").style.display = "block";
+}
+ 
+function w3_close() {
+    document.getElementById("mySidebar").style.display = "none";
+    document.getElementById("myOverlay").style.display = "none";
+}
+</script>
+	
+</body>
+</html>
