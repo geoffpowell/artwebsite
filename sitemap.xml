@@ -2,56 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://geoffpowell.art/artwork/</loc>
+    <loc>https://geoffpowell.github.io/artwebsite/artwork/</loc>
     <lastmod>2024-11-14T20:15:30-07:00</lastmod>
   </url><url>
-    <loc>https://geoffpowell.art/artwork/memento_mori_5/</loc>
+    <loc>https://geoffpowell.github.io/artwebsite/artwork/memento_mori_5/</loc>
     <lastmod>2024-11-14T20:15:30-07:00</lastmod>
   </url><url>
-    <loc>https://geoffpowell.art/categories/painting/</loc>
+    <loc>https://geoffpowell.github.io/artwebsite/categories/painting/</loc>
     <lastmod>2024-11-14T20:15:30-07:00</lastmod>
   </url><url>
-    <loc>https://geoffpowell.art/artwork/memento_mori_3/</loc>
+    <loc>https://geoffpowell.github.io/artwebsite/artwork/memento_mori_3/</loc>
     <lastmod>2024-11-11T20:00:02-07:00</lastmod>
   </url><url>
-    <loc>https://geoffpowell.art/artwork/memento_mori_4/</loc>
+    <loc>https://geoffpowell.github.io/artwebsite/artwork/memento_mori_4/</loc>
     <lastmod>2024-11-05T20:07:31-07:00</lastmod>
   </url><url>
-    <loc>https://geoffpowell.art/artwork/memento_mori_2/</loc>
+    <loc>https://geoffpowell.github.io/artwebsite/artwork/memento_mori_2/</loc>
     <lastmod>2024-10-17T19:47:32-07:00</lastmod>
-  </url>
-<url>
-    <loc>https://geoffpowell.art/artwork/memento_mori_1/</loc>
+  </url><url>
+    <loc>https://geoffpowell.github.io/artwebsite/categories/selected/</loc>
+    <lastmod>2024-10-17T19:47:32-07:00</lastmod>
+  </url><url>
+    <loc>https://geoffpowell.github.io/artwebsite/artwork/memento_mori_1/</loc>
     <lastmod>2024-09-29T19:39:21-07:00</lastmod>
   </url><url>
-    <loc>https://geoffpowell.art/artwork/dandelions/</loc>
+    <loc>https://geoffpowell.github.io/artwebsite/artwork/dandelions/</loc>
     <lastmod>2024-09-16T11:34:45-07:00</lastmod>
   </url><url>
-    <loc>https://geoffpowell.art/artwork/watermelonandtopochico/</loc>
+    <loc>https://geoffpowell.github.io/artwebsite/artwork/watermelonandtopochico/</loc>
     <lastmod>2024-07-08T11:34:45-07:00</lastmod>
   </url><url>
-    <loc>https://geoffpowell.art/artwork/onion/</loc>
+    <loc>https://geoffpowell.github.io/artwebsite/artwork/onion/</loc>
     <lastmod>2024-07-04T11:34:45-07:00</lastmod>
   </url><url>
-    <loc>https://geoffpowell.art/categories/drawing/</loc>
+    <loc>https://geoffpowell.github.io/artwebsite/categories/drawing/</loc>
     <lastmod>2023-06-06T17:43:58-07:00</lastmod>
   </url><url>
-    <loc>https://geoffpowell.art/artwork/elizabeth/</loc>
+    <loc>https://geoffpowell.github.io/artwebsite/artwork/elizabeth/</loc>
     <lastmod>2023-06-06T17:43:58-07:00</lastmod>
   </url><url>
-    <loc>https://geoffpowell.art/artwork/alyssa/</loc>
+    <loc>https://geoffpowell.github.io/artwebsite/artwork/alyssa/</loc>
     <lastmod>2023-04-02T15:36:36-07:00</lastmod>
   </url><url>
-    <loc>https://geoffpowell.art/artwork/self-portrait-2023/</loc>
+    <loc>https://geoffpowell.github.io/artwebsite/artwork/self-portrait-2023/</loc>
     <lastmod>2023-02-20T16:46:01-07:00</lastmod>
   </url><url>
-    <loc>https://geoffpowell.art/</loc>
+    <loc>https://geoffpowell.github.io/artwebsite/</loc>
     <lastmod>2022-06-26T16:06:29-07:00</lastmod>
   </url><url>
-    <loc>https://geoffpowell.art/contact/</loc>
+    <loc>https://geoffpowell.github.io/artwebsite/contact/</loc>
     <lastmod>2022-06-25T18:53:30-07:00</lastmod>
   </url><url>
-    <loc>https://geoffpowell.art/about/</loc>
+    <loc>https://geoffpowell.github.io/artwebsite/about/</loc>
     <lastmod>2022-06-25T11:57:11-07:00</lastmod>
   </url>
 </urlset>
