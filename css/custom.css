@@ -29,7 +29,7 @@ h2 {
 
 }
 h3 {
-	font-size: 16px;
+	font-size: 18px;
 	letter-spacing: .02em;
 	font-family: "Playfair Display";
 	font-weight:  bold;
@@ -67,6 +67,9 @@ p.serviceprice {
 .w3-btn {
 	margin-bottom:  16px;
 }
+.w3-button {
+	border-radius: 4px;
+}
 .w3-jumbo { /*close sidebar button*/
 	font-size: 32px!important;
 	position:  absolute!important;
@@ -87,10 +90,12 @@ p.serviceprice {
 	padding:  0 16px;
 }
 .w3-input {
-	border:  2px solid teal;
+	border:  1px solid teal;
+	border-radius: 5px;
 }
 .w3-input-failed {
-	border:  2px solid red;
+	border:  1px solid red;
+	border-radius: 5px;
 }
 .hp, #hp {
 	/*honey pot elements*/
