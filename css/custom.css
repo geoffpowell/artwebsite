@@ -67,9 +67,6 @@ p.serviceprice {
 .w3-btn {
 	margin-bottom:  16px;
 }
-.w3-button {
-	border-radius: 4px;
-}
 .w3-jumbo { /*close sidebar button*/
 	font-size: 32px!important;
 	position:  absolute!important;
@@ -91,11 +88,9 @@ p.serviceprice {
 }
 .w3-input {
 	border:  1px solid teal;
-	border-radius: 5px;
 }
 .w3-input-failed {
 	border:  1px solid red;
-	border-radius: 5px;
 }
 .hp, #hp {
 	/*honey pot elements*/
