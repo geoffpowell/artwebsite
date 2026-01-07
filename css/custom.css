@@ -45,6 +45,9 @@ a.imglink{
 	content: '';
 	display: block;
 }
+a img {
+	border: 2px solid black;
+}
 a img:hover {
 	opacity: .8;
 	transition-duration: .2s;
