@@ -46,7 +46,7 @@ a.imglink{
 	display: block;
 }
 a img {
-	border: 2px solid black;
+	/*border: 2px solid black;*/
 }
 a img:hover {
 	opacity: .8;
