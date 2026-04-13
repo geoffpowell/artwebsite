@@ -2,94 +2,92 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/artwork/</loc>
+    <loc>https://geoffpowell.art/artwork/</loc>
     <lastmod>2026-03-27T20:48:08-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/painting/</loc>
+    <loc>https://geoffpowell.art/categories/painting/</loc>
     <lastmod>2026-03-27T20:48:08-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artwork/rex_morietur/</loc>
+    <loc>https://geoffpowell.art/artwork/rex_morietur/</loc>
     <lastmod>2026-03-27T20:48:08-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/selected/</loc>
-    <lastmod>2026-03-27T20:48:08-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/artwork/rustyoldtruck/</loc>
+  </url>
+<url>
+    <loc>https://geoffpowell.art/artwork/rustyoldtruck/</loc>
     <lastmod>2025-12-24T12:00:59-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artwork/streetdog/</loc>
+    <loc>https://geoffpowell.art/artwork/streetdog/</loc>
     <lastmod>2025-12-23T11:21:52-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artwork/tree_at_the_arroyo/</loc>
+    <loc>https://geoffpowell.art/artwork/tree_at_the_arroyo/</loc>
     <lastmod>2025-12-08T21:08:05-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artwork/garden_wall_at_lavaderos/</loc>
+    <loc>https://geoffpowell.art/artwork/garden_wall_at_lavaderos/</loc>
     <lastmod>2025-12-08T20:47:40-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artwork/chapel_in_la_cruz/</loc>
+    <loc>https://geoffpowell.art/artwork/chapel_in_la_cruz/</loc>
     <lastmod>2025-12-08T20:45:07-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artwork/templo_de_nuestra/</loc>
+    <loc>https://geoffpowell.art/artwork/templo_de_nuestra/</loc>
     <lastmod>2025-11-08T20:44:44-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artwork/an_offering/</loc>
+    <loc>https://geoffpowell.art/artwork/an_offering/</loc>
     <lastmod>2025-10-26T18:07:56-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artwork/young_hare/</loc>
+    <loc>https://geoffpowell.art/artwork/young_hare/</loc>
     <lastmod>2025-09-15T18:07:42-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artwork/hoodwinked/</loc>
+    <loc>https://geoffpowell.art/artwork/hoodwinked/</loc>
     <lastmod>2025-09-08T18:00:22-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artwork/tangier/</loc>
+    <loc>https://geoffpowell.art/artwork/tangier/</loc>
     <lastmod>2025-08-15T14:42:06-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artwork/memento_mori_5/</loc>
+    <loc>https://geoffpowell.art/artwork/memento_mori_5/</loc>
     <lastmod>2024-11-14T20:15:30-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artwork/memento_mori_3/</loc>
+    <loc>https://geoffpowell.art/artwork/memento_mori_3/</loc>
     <lastmod>2024-11-11T20:00:02-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artwork/memento_mori_4/</loc>
+    <loc>https://geoffpowell.art/artwork/memento_mori_4/</loc>
     <lastmod>2024-11-05T20:07:31-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artwork/memento_mori_2/</loc>
+    <loc>https://geoffpowell.art/artwork/memento_mori_2/</loc>
     <lastmod>2024-10-17T19:47:32-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artwork/memento_mori_1/</loc>
+    <loc>https://geoffpowell.art/artwork/memento_mori_1/</loc>
     <lastmod>2024-09-29T19:39:21-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artwork/dandelions/</loc>
+    <loc>https://geoffpowell.art/artwork/dandelions/</loc>
     <lastmod>2024-09-16T11:34:45-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artwork/watermelonandtopochico/</loc>
+    <loc>https://geoffpowell.art/artwork/watermelonandtopochico/</loc>
     <lastmod>2024-07-08T11:34:45-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artwork/onion/</loc>
+    <loc>https://geoffpowell.art/artwork/onion/</loc>
     <lastmod>2024-07-04T11:34:45-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artwork/skull_toothbrush/</loc>
+    <loc>https://geoffpowell.art/artwork/skull_toothbrush/</loc>
     <lastmod>2024-06-14T20:41:11-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/drawing/</loc>
+    <loc>https://geoffpowell.art/categories/drawing/</loc>
     <lastmod>2023-06-06T17:43:58-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artwork/elizabeth/</loc>
+    <loc>https://geoffpowell.art/artwork/elizabeth/</loc>
     <lastmod>2023-06-06T17:43:58-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artwork/alyssa/</loc>
+    <loc>https://geoffpowell.art/artwork/alyssa/</loc>
     <lastmod>2023-04-02T15:36:36-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/artwork/self-portrait-2023/</loc>
+    <loc>https://geoffpowell.art/artwork/self-portrait-2023/</loc>
     <lastmod>2023-02-20T16:46:01-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://geoffpowell.art/</loc>
     <lastmod>2022-06-26T16:06:29-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>https://geoffpowell.art/contact/</loc>
     <lastmod>2022-06-25T18:53:30-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://geoffpowell.art/about/</loc>
     <lastmod>2022-06-25T11:57:11-07:00</lastmod>
   </url>
 </urlset>
