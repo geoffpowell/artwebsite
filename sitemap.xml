@@ -61,8 +61,10 @@
   </url><url>
     <loc>https://geoffpowell.art/artwork/dandelions/</loc>
     <lastmod>2024-09-16T11:34:45-07:00</lastmod>
-  </url>
-<url>
+  </url><url>
+    <loc>https://geoffpowell.art/categories/selected/</loc>
+    <lastmod>2024-09-16T11:34:45-07:00</lastmod>
+  </url><url>
     <loc>https://geoffpowell.art/artwork/watermelonandtopochico/</loc>
     <lastmod>2024-07-08T11:34:45-07:00</lastmod>
   </url><url>
@@ -94,4 +96,3 @@
     <lastmod>2022-06-25T11:57:11-07:00</lastmod>
   </url>
 </urlset>
-</url>
